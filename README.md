@@ -1,4 +1,4 @@
-# Estudos OOP (Object-Oriented Programming)
+# Estudos OOP (Object Oriented Programming)
 
 ---
 
